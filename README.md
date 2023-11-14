@@ -1,2 +1,1 @@
-# juegomasdificildelmundo
-este es mi juego dificil
+Actividad del alumno 3 - PRO - C30
